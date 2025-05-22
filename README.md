@@ -43,8 +43,8 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/employee-management.git
-cd employee-management
+git clone https://github.com/besireren/caseEmployeeList.git
+cd caseEmployeeList
 ```
 
 ### Install dependencies
