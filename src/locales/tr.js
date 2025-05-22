@@ -1,0 +1,48 @@
+export const tr = {
+    'app.title': 'Çalışan Yönetimi',
+    'app.nav.list': 'Çalışanlar',
+    'app.nav.add': 'Çalışan Ekle',
+    'app.nav.title': 'Çalışan Listesi',
+    
+    'list.search': 'Çalışan ara...',
+    'list.search.placeholder': 'Çalışan ara...',
+    'list.search.noResults': 'Aramanızla eşleşen çalışan bulunamadı.',
+    'list.view.switch': '{mode} Görünümüne Geç',
+    'list.table.firstName': 'Ad',
+    'list.table.lastName': 'Soyad',
+    'list.table.department': 'Departman',
+    'list.table.position': 'Pozisyon',
+    'list.table.email': 'E-posta',
+    'list.table.actions': 'İşlemler',
+    'list.actions.edit': 'Düzenle',
+    'list.actions.delete': 'Sil',
+    'list.delete.confirm': '{employee} adlı çalışanı silmek istediğinizden emin misiniz?',
+
+    'form.title.add': 'Yeni Çalışan Ekle',
+    'form.title.edit': 'Çalışan Düzenle',
+    'form.firstName': 'Ad',
+    'form.lastName': 'Soyad',
+    'form.dateOfEmployment': 'İşe Başlama Tarihi',
+    'form.dateOfBirth': 'Doğum Tarihi',
+    'form.phone': 'Telefon Numarası',
+    'form.email': 'E-posta',
+    'form.department': 'Departman',
+    'form.position': 'Pozisyon',
+    'form.submit.add': 'Çalışan Ekle',
+    'form.submit.update': 'Çalışanı Güncelle',
+    'form.cancel': 'İptal',
+    'form.add.confirm': '{employee} adlı kişiyi yeni çalışan olarak eklemek istediğinizden emin misiniz?',
+    'form.update.confirm': '{employee} adlı çalışanın bilgilerini güncellemek istediğinizden emin misiniz?',
+
+    'validation.required': '{field} alanı zorunludur',
+    'validation.email.invalid': 'Geçersiz e-posta formatı',
+    'validation.email.exists': 'Bu e-posta adresi zaten kullanımda',
+    'validation.phone.format': 'Telefon numarası formatı şöyle olmalıdır: +(90) 532 123 45 67',
+
+    'department.analytics': 'Analitik',
+    'department.tech': 'Teknoloji',
+    
+    'position.junior': 'Yeni Başlayan',
+    'position.medior': 'Orta Düzey',
+    'position.senior': 'Kıdemli'
+}; 

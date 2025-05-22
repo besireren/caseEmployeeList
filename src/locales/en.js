@@ -1,0 +1,48 @@
+export const en = {
+    'app.title': 'Employee Management',
+    'app.nav.list': 'Employees',
+    'app.nav.add': 'Add Employee',
+    'app.nav.title': 'Employee List',
+    
+    'list.search': 'Search employees...',
+    'list.search.placeholder': 'Search employees...',
+    'list.search.noResults': 'No employees found matching your search.',
+    'list.view.switch': 'Switch to {mode} View',
+    'list.table.firstName': 'First Name',
+    'list.table.lastName': 'Last Name',
+    'list.table.department': 'Department',
+    'list.table.position': 'Position',
+    'list.table.email': 'Email',
+    'list.table.actions': 'Actions',
+    'list.actions.edit': 'Edit',
+    'list.actions.delete': 'Delete',
+    'list.delete.confirm': 'Are you sure you want to delete {employee}?',
+
+    'form.title.add': 'Add New Employee',
+    'form.title.edit': 'Edit Employee',
+    'form.firstName': 'First Name',
+    'form.lastName': 'Last Name',
+    'form.dateOfEmployment': 'Date of Employment',
+    'form.dateOfBirth': 'Date of Birth',
+    'form.phone': 'Phone Number',
+    'form.email': 'Email',
+    'form.department': 'Department',
+    'form.position': 'Position',
+    'form.submit.add': 'Add Employee',
+    'form.submit.update': 'Update Employee',
+    'form.cancel': 'Cancel',
+    'form.add.confirm': 'Are you sure you want to add {employee} as a new employee?',
+    'form.update.confirm': 'Are you sure you want to update {employee}\'s information?',
+
+    'validation.required': '{field} is required',
+    'validation.email.invalid': 'Invalid email format',
+    'validation.email.exists': 'Email already exists',
+    'validation.phone.format': 'Phone number format should be: +(90) 532 123 45 67',
+
+    'department.analytics': 'Analytics',
+    'department.tech': 'Tech',
+    
+    'position.junior': 'Junior',
+    'position.medior': 'Medior',
+    'position.senior': 'Senior'
+}; 
